@@ -2,5 +2,5 @@ RIKY ADI PUTRA RESOLUSI
 - Konsiten untuk belajar coding agar menjadi seseorang yang mahir
 - Paham konsep bahasa pemogramman
 - Paham konsep dasar HTML, CSS, JS
-- Paham konsep nested if di javascript
 - Paham kegunaan method di javascript
+- Paham konsep dom
